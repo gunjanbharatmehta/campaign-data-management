@@ -35,6 +35,7 @@ The project was developed using Oracle as the database management system. The im
 
 This repository contains the following files:
 
+- `csv`: The folder containing all the csv files filled with mock data to test the SQL queries.
 - `ER_diagram.png`: The ER diagram representing the conceptual design of the database.
 - `create_tables.sql`: SQL scripts containing the table definitions.
 - `queries.sql`: SQL queries demonstrating the system's functionality and compliance with the information requirements.
@@ -46,9 +47,8 @@ The report provided in this repository consists of the following chapters:
 
 1. Introduction: A brief overview of the project's aims and objectives.
 2. The Class Diagram: Detailed representation of the ER diagram with constraints and assumptions.
-3. Implementation: SQL table definitions used to create the database.
-4. Queries: Six sample queries showcasing the system's ability to meet the requirements.
-5. Conclusion: A critical evaluation of the final product and an overall review of the project.
-6. Appendix: Detailed data tables used in the database.
+3. Queries: Six sample queries showcasing the system's ability to meet the requirements.
+4. Conclusion: A critical evaluation of the final product and an overall review of the project.
+5. Appendix: Detailed data tables used in the database.
 
 Please refer to the report.pdf file for a comprehensive understanding of the project and its outcomes.
