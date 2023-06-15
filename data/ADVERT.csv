@@ -1,0 +1,101 @@
+ADVERT_CODE,CAMPAIGN_CODE,START_DATE,END_DATE,STATUS,ADVERT_TYPE,TYPE_DESC,SIZE_OF_ADVERT,AUDIENCE_DESC
+A111,C111,12/08/2007,05/25/2016,0,Newspaper,The Guardian,24*24,Teenagers
+A112,C112,10/05/2005,03/04/2020,1,Magazine,Discovery Girls,15*15,Girls
+A113,C113,07/12/2007,09/06/2014,0,Radio,Sheldon,20 sec,Senior Citizens
+A114,C114,06/27/2007,10/31/2018,1,TV,Monica,30 sec,All people
+A115,C115,03/06/2005,03/30/2013,0,Cinema,Sky & Telescope,120 sec,All children
+A116,C116,07/12/2004,12/20/2019,1,Poster,Aquaman,30*30,All people
+A117,C117,04/22/2007,08/17/2018,1,Web,Jake,10*10,All
+A118,C118,03/04/2008,04/18/2013,0,Leaflet,Motor Trend,10*10,All people
+A119,C119,07/05/2008,02/16/2019,0,Newspaper,Car and Driver,24*30,All people
+A120,C120,09/28/2004,07/22/2014,1,Magazine,Zoobooks,15*15,Zoologists
+A121,C121,03/29/2008,11/15/2017,1,Radio,Penny,25 sec,Senior Citizens
+A122,C122,11/11/2006,11/26/2014,1,TV,Chandler,30 sec,All children
+A123,C123,02/05/2006,03/08/2013,1,Cinema,Post Credits,90 sec,Boys
+A124,C124,05/01/2004,07/20/2012,0,Poster,Superman,30*30,All people
+A125,C125,04/14/2006,05/25/2016,0,Web,Amy,10*10,All 
+A126,C126,03/07/2007,05/10/2017,0,Leaflet,Openlane,10*10,All people
+A127,C127,03/20/2009,09/13/2014,0,Newspaper,The Sunday Telegraph,30*24,Senior Citizens
+A128,C128,12/17/2009,05/01/2018,1,Magazine,Midwest Living,15*15,Midwesterns
+A129,C129,09/06/2004,07/14/2017,1,Radio,Leonard,30 sec,Senior Citizens
+A130,C130,02/09/2007,05/31/2012,1,TV,Ross,30 sec,Boys
+A131,C131,12/03/2007,06/04/2016,1,Cinema,Mid Credits,120 sec,Girls
+A132,C132,10/15/2005,04/30/2015,1,Poster,Spiderman,30*30,All people
+A133,C133,08/25/2006,03/09/2011,0,Web,Terry,10*10,All
+A134,C134,09/21/2007,10/22/2013,0,Leaflet,Goodsilron,10*10,All people
+A135,C135,03/31/2006,01/28/2011,0,Newspaper,The Observer,20*20,All people
+A136,C136,01/17/2006,01/17/2017,0,Magazine,Sky & Telescope,15*15,Astronomers
+A137,C137,02/12/2004,08/09/2015,1,Radio,Amy,20 sec,Senior Citizens
+A138,C138,02/12/2009,12/08/2013,1,TV,Rachael,30 sec,Girls
+A139,C139,01/11/2007,09/26/2018,1,Cinema,Intermissions,90 sec,Senior Citizens
+A140,C140,09/13/2007,03/09/2019,1,Poster,Iron Man,30*30,All people
+A141,C141,02/20/2006,09/20/2016,1,Web,Holt,10*10,All
+A142,C142,06/30/2009,11/26/2019,0,Leaflet,Isdom,10*10,All people
+A143,C143,06/05/2008,01/08/2011,0,Newspaper,The Daily Telegraph,30*30,All people
+A144,C144,12/13/2007,11/06/2016,0,Magazine,Motor Trend,15*15,Car Drivers
+A145,C145,07/01/2004,08/10/2011,0,Radio,Howard,25 sec,Senior Citizens
+A146,C146,06/06/2007,02/17/2013,1,TV,Joey,30 sec,All people
+A147,C147,04/12/2007,02/25/2014,0,Cinema,Mid Credits,120 sec,All people
+A148,C148,08/03/2004,12/22/2019,1,Poster,Batman,30*30,All people
+A149,C149,04/16/2008,11/21/2018,0,Web,Charles,10*10,All
+A150,C150,08/30/2009,07/02/2019,1,Leaflet,Goodsilron,10*10,All people
+A151,C151,05/13/2006,08/13/2020,1,Newspaper,Isdom,24*24,Senior Citizens
+A152,C152,09/30/2004,12/03/2013,0,Magazine,Car and Driver,15*15,Car Drivers
+A153,C153,07/02/2008,08/14/2011,0,Radio,Raj,30 sec,Senior Citizens
+A154,C154,04/24/2006,10/06/2012,1,TV,Phoebe,30 sec,All children
+A155,C155,11/16/2005,04/20/2018,1,Cinema,Intermissions,90 sec,All children
+A156,C156,04/10/2009,06/21/2012,1,Poster,Ant Man,30*30,All people
+A157,C157,09/06/2007,02/23/2014,0,Web,Rosa,10*10,All
+A158,C158,04/16/2007,07/29/2011,1,Leaflet,Isdom,10*10,All people
+A159,C159,06/11/2009,07/26/2020,0,Newspaper,The Times,24*24,Teenagers
+A160,C160,04/07/2005,12/02/2018,0,Magazine,Christianity Today,15*15,Christians
+A161,C111,12/08/2007,05/25/2016,0,TV,Ross,30 sec,Boys
+A162,C112,10/05/2005,03/04/2020,1,Cinema,Mid Credits,120 sec,Girls
+A163,C113,07/12/2007,09/06/2014,0,Poster,Spiderman,30*30,All people
+A164,C114,06/27/2007,10/31/2018,1,Web,Terry,10*10,All
+A165,C115,03/06/2005,03/30/2013,0,Leaflet,Goodsilron,10*10,All people
+A166,C116,07/12/2004,12/20/2019,1,Newspaper,The Observer,20*20,All people
+A167,C117,04/22/2007,08/17/2018,1,Magazine,Sky & Telescope,15*15,Astronomers
+A168,C118,03/04/2008,04/18/2013,0,Radio,Amy,20 sec,Senior Citizens
+A169,C119,07/05/2008,02/16/2019,0,TV,Rachael,30 sec,Girls
+A170,C120,09/28/2004,07/22/2014,1,Cinema,Intermissions,90 sec,Senior Citizens
+A171,C121,03/29/2008,11/15/2017,1,Poster,Iron Man,30*30,All people
+A172,C122,11/11/2006,11/26/2014,1,Web,Holt,10*10,All
+A173,C123,02/05/2006,03/08/2013,1,Leaflet,Isdom,10*10,All people
+A174,C124,05/01/2004,07/20/2012,0,Newspaper,The Daily Telegraph,30*30,All people
+A175,C125,04/14/2006,05/25/2016,0,Magazine,Motor Trend,15*15,Car Drivers
+A176,C126,03/07/2007,05/10/2017,0,Newspaper,The Guardian,24*24,Teenagers
+A177,C127,03/20/2009,09/13/2014,0,Magazine,Discovery Girls,15*15,Girls
+A178,C128,12/17/2009,05/01/2018,1,Radio,Sheldon,20 sec,Senior Citizens
+A179,C129,09/06/2004,07/14/2017,1,TV,Monica,30 sec,All people
+A180,C145,07/01/2004,08/10/2011,0,Cinema,Sky & Telescope,120 sec,All children
+A181,C146,06/06/2007,02/17/2013,1,Poster,Aquaman,30*30,All people
+A182,C147,04/12/2007,02/25/2014,0,Web,Jake,10*10,All
+A183,C148,08/03/2004,12/22/2019,1,Leaflet,Motor Trend,10*10,All people
+A184,C149,04/16/2008,11/21/2018,0,Newspaper,Car and Driver,24*30,All people
+A185,C150,08/30/2009,07/02/2019,1,Magazine,Zoobooks,15*15,Zoologists
+A186,C151,05/13/2006,08/13/2020,1,Radio,Penny,25 sec,Senior Citizens
+A187,C152,09/30/2004,12/03/2013,0,TV,Chandler,30 sec,All children
+A188,C153,07/02/2008,08/14/2011,0,Cinema,Post Credits,90 sec,Boys
+A189,C154,04/24/2006,10/06/2012,1,Poster,Superman,30*30,All people
+A190,C155,11/16/2005,04/20/2018,1,Web,Amy,10*10,All 
+A191,C156,04/10/2009,06/21/2012,1,Leaflet,Openlane,10*10,All people
+A192,C157,09/06/2007,02/23/2014,0,Newspaper,The Sunday Telegraph,30*24,Senior Citizens
+A193,C158,04/16/2007,07/29/2011,1,Magazine,Midwest Living,15*15,Midwesterns
+A194,C159,06/11/2009,07/26/2020,0,Radio,Leonard,30 sec,Senior Citizens
+A195,C160,04/07/2005,12/02/2018,0,Radio,Howard,25 sec,Senior Citizens
+A196,C130,02/09/2007,05/31/2012,1,TV,Joey,30 sec,All people
+A197,C131,12/03/2007,06/04/2016,1,Cinema,Mid Credits,120 sec,All people
+A198,C132,10/15/2005,04/30/2015,1,Poster,Batman,30*30,All people
+A199,C133,08/25/2006,03/09/2011,0,Web,Charles,10*10,All
+A200,C134,09/21/2007,10/22/2013,0,Leaflet,Goodsilron,10*10,All people
+A201,C135,03/31/2006,01/28/2011,0,Newspaper,Isdom,24*24,Senior Citizens
+A202,C136,01/17/2006,01/17/2017,0,Magazine,Car and Driver,15*15,Car Drivers
+A203,C137,02/12/2004,08/09/2015,1,Radio,Raj,30 sec,Senior Citizens
+A204,C138,02/12/2009,12/08/2013,1,TV,Phoebe,30 sec,All children
+A205,C139,01/11/2007,09/26/2018,1,Cinema,Intermissions,90 sec,All children
+A206,C140,09/13/2007,03/09/2019,1,Poster,Ant Man,30*30,All people
+A207,C141,02/20/2006,09/20/2016,1,Web,Rosa,10*10,All
+A208,C142,06/30/2009,11/26/2019,0,Leaflet,Isdom,10*10,All people
+A209,C143,06/05/2008,01/08/2011,0,Newspaper,The Times,24*24,Teenagers
+A210,C144,12/13/2007,11/06/2016,0,Magazine,Christianity Today,15*15,Christians
