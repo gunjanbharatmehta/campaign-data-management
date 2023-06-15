@@ -35,7 +35,7 @@ The project was developed using Oracle as the database management system. The im
 
 This repository contains the following files:
 
-- `csv`: The folder containing all the csv files filled with mock data to test the SQL queries.
+- `data`: The folder containing all the csv files filled with mock data to test the SQL queries.
 - `ER_diagram.png`: The ER diagram representing the conceptual design of the database.
 - `create_tables.sql`: SQL scripts containing the table definitions.
 - `queries.sql`: SQL queries demonstrating the system's functionality and compliance with the information requirements.
